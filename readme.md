@@ -53,11 +53,11 @@ GraphQL offers several performance advantages over REST API:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/graphql-api.git
+   git clone https://github.com/RIADH-NOURI/graphql-api.git
    ```
 2. Install dependencies:
    ```sh
-   cd graphql-api
+   cd backend
    npm install
    ```
 3. Set up environment variables in a `.env` file:
