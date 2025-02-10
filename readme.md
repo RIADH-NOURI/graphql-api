@@ -5,7 +5,7 @@ This project is a GraphQL API built with Express, Prisma, and PostgreSQL. It pro
 
 ## Example Queries
 
-### Fetch all categories
+### Fetch all books
 ```graphql
  query {
       books {
